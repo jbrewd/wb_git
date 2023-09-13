@@ -11,7 +11,7 @@ In this tutorial i have learnt
 - git config
 - git remote
 - git push
-
+- git clone
 
 
 
